@@ -73,6 +73,13 @@ Erfolgsmessung und Vergleichswerte · Leasing-Konditionen und Partner für den R
 Zeitpunkt Partnerportal · Custom-Räder auf der Seite? · öffentliche SLA-Inhalte ·
 Budget über 150.000 € · Umfang der visuellen Neugestaltung und Freigaberunden.
 
+**Ergänzend (noch nicht im PRD, aber für die Seite nötig):** Konkrete Öffnungszeiten
+beider Standorte · Art der Terminvergabe für die Werkstatt (online, telefonisch, beides) ·
+ob es für B2B-Geschäftskunden (Klinikum, Pflegedienst – Beschäftigte im Schichtdienst)
+eine Erreichbarkeit außerhalb der Öffnungszeiten gibt (Notdienst/Nachtschicht) und ob das
+auf der Seite kommuniziert werden soll. Bis zur Klärung bleiben `[Öffnungszeiten]` u. Ä.
+im Prototyp als Platzhalter stehen – nichts erfinden.
+
 ## Ordnerstruktur
 
 - `docs/` – Quelldokumente (Protokoll, PRD, Firmensteckbrief). Nicht verändern.
